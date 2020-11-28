@@ -1,0 +1,61 @@
+h1{
+    background-color: grey;
+    color:rgb(10, 219, 10)
+}
+
+.intro1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: gold;
+}
+.intro2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: gold;
+}
+.intro3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.img1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Facts1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: gold;
+}
+.img2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Facts2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: gold;
+}
+.img3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Facts3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: gold;
+}
+.outro{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: gold;
+}
